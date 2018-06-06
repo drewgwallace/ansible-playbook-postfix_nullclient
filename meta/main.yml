@@ -1,0 +1,21 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: drewgwallace
+  description: Configure null client postfix system.
+  company: 
+  license: MIT
+  min_ansible_version: 2.4
+  platforms:
+    - name: Debian
+      versions:
+      - all
+    - name: Ubuntu
+      versions:
+      - all
+  galaxy_tags:
+    - system
+    - postfix
+    - mail
+    - logs

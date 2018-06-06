@@ -1,0 +1,11 @@
+# TO: mail_recipient From: destination_mail_server, e.g. To friend@example.com from me@mymailserver.example.com
+---
+
+
+# destination_mail_server is the server the email messages are sent to.
+destination_mail_server: "me@mymailserver.example.com"
+
+# mail_recipient is the recipient being sento to
+mail_recipient: "friend@example.com"
+
+testemail: True
