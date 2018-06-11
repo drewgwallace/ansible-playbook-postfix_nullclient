@@ -1,5 +1,8 @@
-# This playbook is intended to configure the target as a postfix null client to send
-#   messages to a central email relay
+
+# Purpose: This playbook is intended to configure the target as a postfix null client to send
+# messages to a central email relay
+# Last Updated: 2018.06.11
+# Notes:
 ---  
 
 

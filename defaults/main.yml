@@ -1,4 +1,6 @@
-# TO: mail_recipient From: destination_mail_server, e.g. To friend@example.com from me@mymailserver.example.com
+# Purpose: Default variables for postfix null client
+# Last Updated: 2018.06.11
+# Notes: TO: mail_recipient From: destination_mail_server, e.g. To friend@example.com from me@mymailserver.example.com
 ---
 
 
