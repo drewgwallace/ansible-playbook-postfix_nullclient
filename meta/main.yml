@@ -1,15 +1,14 @@
-# Purpose: Meta for postfix null client for Ansible Galaxy
-# Last Updated: 2018.06.11
-# Notes:
 ---
-
-
 dependencies: []
 
 galaxy_info:
   author: drewgwallace
   description: Configure null client postfix system.
-  company: 
+  galaxy_tags:
+    - system
+    - postfix
+    - mail
+    - logs
   license: MIT
   min_ansible_version: 2.4
   platforms:
@@ -19,8 +18,3 @@ galaxy_info:
     - name: Ubuntu
       versions:
       - all
-  galaxy_tags:
-    - system
-    - postfix
-    - mail
-    - logs
